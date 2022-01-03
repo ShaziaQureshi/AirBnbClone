@@ -6,7 +6,7 @@ function Hero(){
     <section  className="hero-section">
       <img 
       className="grid-img"
-      src="https://i.pinimg.com/originals/90/22/4d/90224dd606a96b407fd8b899ba14d3ce.jpg" alt="grid Image"/>
+      src="https://magazine.avocadogreenmattress.com/wp-content/uploads/2018/08/A-frame-2.jpg" alt="grid Image"/>
       <h1 className="hero--text">Online Experiences</h1>
       <p className="hero-details">Join unique interactive activities led by one-of-a-kind hosts—all without leaving home.</p>
       </section>
